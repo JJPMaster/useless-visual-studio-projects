@@ -1,0 +1,17 @@
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\bin\Debug\Object Ion Collection.exe.config
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\bin\Debug\Object Ion Collection.exe
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\bin\Debug\Object Ion Collection.pdb
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\bin\Debug\Object Ion Collection.xml
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.vbprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form1.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Resources.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.vbproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.vbproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.exe
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.xml
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object Ion Collection.pdb
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form2.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form3.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form4.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form5.resources
+C:\Users\Joshua\source\repos\Object Ion Collection\Object Ion Collection\obj\Debug\Object_Ion_Collection.Form8.resources
