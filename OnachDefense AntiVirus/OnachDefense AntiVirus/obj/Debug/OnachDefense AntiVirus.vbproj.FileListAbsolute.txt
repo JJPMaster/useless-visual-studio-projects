@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\bin\Debug\OnachDefense AntiVirus.exe.config
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\bin\Debug\OnachDefense AntiVirus.exe
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\bin\Debug\OnachDefense AntiVirus.pdb
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\bin\Debug\OnachDefense AntiVirus.xml
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense_AntiVirus.Form1.resources
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense_AntiVirus.Resources.resources
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.exe
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.xml
+C:\Users\Tekga\source\repos\OnachDefense AntiVirus\OnachDefense AntiVirus\obj\Debug\OnachDefense AntiVirus.pdb

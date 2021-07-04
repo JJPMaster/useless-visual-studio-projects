@@ -1,0 +1,12 @@
+c:\users\tekga\source\repos\ORES\ORES\bin\Debug\ORES.exe.config
+c:\users\tekga\source\repos\ORES\ORES\bin\Debug\ORES.exe
+c:\users\tekga\source\repos\ORES\ORES\bin\Debug\ORES.pdb
+c:\users\tekga\source\repos\ORES\ORES\bin\Debug\ORES.xml
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.vbprojResolveAssemblyReference.cache
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.Form1.resources
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.Resources.resources
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.vbproj.GenerateResource.Cache
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.vbproj.CoreCompileInputs.cache
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.exe
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.xml
+c:\users\tekga\source\repos\ORES\ORES\obj\Debug\ORES.pdb

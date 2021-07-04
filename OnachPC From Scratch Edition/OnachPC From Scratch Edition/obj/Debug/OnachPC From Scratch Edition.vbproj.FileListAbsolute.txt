@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\bin\Debug\OnachPC From Scratch Edition.exe.config
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\bin\Debug\OnachPC From Scratch Edition.exe
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\bin\Debug\OnachPC From Scratch Edition.pdb
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\bin\Debug\OnachPC From Scratch Edition.xml
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC_From_Scratch_Edition.Form1.resources
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC_From_Scratch_Edition.Resources.resources
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.exe
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.xml
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.pdb
+C:\Users\Tekga\source\repos\OnachPC From Scratch Edition\OnachPC From Scratch Edition\obj\Debug\OnachPC From Scratch Edition.vbprojResolveAssemblyReference.cache
