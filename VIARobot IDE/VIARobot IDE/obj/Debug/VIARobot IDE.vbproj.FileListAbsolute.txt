@@ -1,0 +1,16 @@
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.exe.config
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.exe
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.pdb
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.xml
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot_IDE.Form1.resources
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot_IDE.Resources.resources
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.exe
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.xml
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.pdb
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.exe.manifest
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\bin\Debug\VIARobot IDE.application
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.exe.manifest
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.application
+C:\Users\Tekga\source\repos\VIARobot IDE\VIARobot IDE\obj\Debug\VIARobot IDE.vbprojResolveAssemblyReference.cache

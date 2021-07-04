@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\WebStab\WebStab\bin\Debug\WebStab.exe.config
+C:\Users\Tekga\source\repos\WebStab\WebStab\bin\Debug\WebStab.exe
+C:\Users\Tekga\source\repos\WebStab\WebStab\bin\Debug\WebStab.pdb
+C:\Users\Tekga\source\repos\WebStab\WebStab\bin\Debug\WebStab.xml
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.Form1.resources
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.Resources.resources
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.exe
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.xml
+C:\Users\Tekga\source\repos\WebStab\WebStab\obj\Debug\WebStab.pdb
