@@ -1,0 +1,12 @@
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\bin\Debug\Onach MusMixMake.exe.config
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\bin\Debug\Onach MusMixMake.exe
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\bin\Debug\Onach MusMixMake.pdb
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\bin\Debug\Onach MusMixMake.xml
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.vbprojResolveAssemblyReference.cache
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach_MusMixMake.Form1.resources
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach_MusMixMake.Resources.resources
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.vbproj.GenerateResource.Cache
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.vbproj.CoreCompileInputs.cache
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.exe
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.xml
+c:\users\tekga\source\repos\Onach MusMixMake\Onach MusMixMake\obj\Debug\Onach MusMixMake.pdb

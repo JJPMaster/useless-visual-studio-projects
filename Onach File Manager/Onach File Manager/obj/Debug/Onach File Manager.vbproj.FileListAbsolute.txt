@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\bin\Debug\Onach File Manager.exe.config
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\bin\Debug\Onach File Manager.exe
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\bin\Debug\Onach File Manager.pdb
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\bin\Debug\Onach File Manager.xml
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach_File_Manager.Form1.resources
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach_File_Manager.Resources.resources
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.exe
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.xml
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.pdb
+C:\Users\Tekga\source\repos\Onach File Manager\Onach File Manager\obj\Debug\Onach File Manager.vbprojResolveAssemblyReference.cache

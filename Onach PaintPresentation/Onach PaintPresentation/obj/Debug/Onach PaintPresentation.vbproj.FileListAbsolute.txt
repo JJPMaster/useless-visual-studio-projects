@@ -1,0 +1,12 @@
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\bin\Debug\Onach PaintPresentation.exe.config
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\bin\Debug\Onach PaintPresentation.exe
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\bin\Debug\Onach PaintPresentation.pdb
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\bin\Debug\Onach PaintPresentation.xml
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.vbprojResolveAssemblyReference.cache
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach_PaintPresentation.Form1.resources
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach_PaintPresentation.Resources.resources
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.vbproj.GenerateResource.Cache
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.vbproj.CoreCompileInputs.cache
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.exe
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.xml
+c:\users\tekga\source\repos\Onach PaintPresentation\Onach PaintPresentation\obj\Debug\Onach PaintPresentation.pdb
