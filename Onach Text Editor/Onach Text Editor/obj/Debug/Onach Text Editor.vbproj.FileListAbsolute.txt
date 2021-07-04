@@ -1,0 +1,11 @@
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\bin\Debug\Onach Text Editor.exe.config
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\bin\Debug\Onach Text Editor.exe
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\bin\Debug\Onach Text Editor.pdb
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\bin\Debug\Onach Text Editor.xml
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach_Text_Editor.Form1.resources
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach_Text_Editor.Resources.resources
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach Text Editor.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach Text Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach Text Editor.exe
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach Text Editor.xml
+C:\Users\Tekga\source\repos\Onach Text Editor\Onach Text Editor\obj\Debug\Onach Text Editor.pdb

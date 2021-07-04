@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\bin\Debug\Onach Program Manager.exe.config
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\bin\Debug\Onach Program Manager.exe
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\bin\Debug\Onach Program Manager.pdb
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\bin\Debug\Onach Program Manager.xml
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach_Program_Manager.Form1.resources
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach_Program_Manager.Resources.resources
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.exe
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.xml
+C:\Users\Tekga\source\repos\Onach Program Manager\Onach Program Manager\obj\Debug\Onach Program Manager.pdb
