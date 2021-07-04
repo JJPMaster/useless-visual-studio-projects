@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\bin\Debug\Onach Document Viewer.exe.config
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\bin\Debug\Onach Document Viewer.exe
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\bin\Debug\Onach Document Viewer.pdb
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\bin\Debug\Onach Document Viewer.xml
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach_Document_Viewer.Form1.resources
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach_Document_Viewer.Resources.resources
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.exe
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.xml
+C:\Users\Tekga\source\repos\Onach Document Viewer\Onach Document Viewer\obj\Debug\Onach Document Viewer.pdb
