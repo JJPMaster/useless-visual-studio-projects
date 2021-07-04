@@ -1,0 +1,24 @@
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.exe.config
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.exe
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.pdb
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.xml
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.Form1.resources
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.Resources.resources
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.exe
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.xml
+C:\Users\Tekga\source\repos\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.pdb
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.exe.config
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.exe
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.pdb
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\bin\Debug\TTCWasHere.xml
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.Form1.resources
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.Resources.resources
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.exe
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.xml
+D:\Visual Studio Projects\TTCWasHere\TTCWasHere\obj\Debug\TTCWasHere.pdb
