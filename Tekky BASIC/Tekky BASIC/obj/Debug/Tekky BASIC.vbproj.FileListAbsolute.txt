@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\bin\Debug\Tekky BASIC.exe.config
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\bin\Debug\Tekky BASIC.exe
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\bin\Debug\Tekky BASIC.pdb
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\bin\Debug\Tekky BASIC.xml
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky_BASIC.Form1.resources
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky_BASIC.Resources.resources
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.exe
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.xml
+C:\Users\Tekga\source\repos\Tekky BASIC\Tekky BASIC\obj\Debug\Tekky BASIC.pdb

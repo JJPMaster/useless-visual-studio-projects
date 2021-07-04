@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\bin\Debug\The Adventures of Jissa.exe.config
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\bin\Debug\The Adventures of Jissa.exe
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\bin\Debug\The Adventures of Jissa.pdb
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\bin\Debug\The Adventures of Jissa.xml
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The_Adventures_of_Jissa.Form1.resources
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The_Adventures_of_Jissa.Resources.resources
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.exe
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.xml
+C:\Users\Tekga\source\repos\The Adventures of Jissa\The Adventures of Jissa\obj\Debug\The Adventures of Jissa.pdb
