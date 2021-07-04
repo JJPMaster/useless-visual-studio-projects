@@ -1,0 +1,51 @@
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe.config
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\Windows Omega.pdb
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\Windows Omega.xml
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Form1.resources
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Resources.resources
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.exe
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.xml
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.pdb
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tekga\source\repos\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.ResolveComReference.cache
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe.config
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.pdb
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.xml
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Interop.WMPLib.dll
+I:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\AxInterop.WMPLib.dll
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbprojAssemblyReference.cache
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Interop.WMPLib.dll
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\AxInterop.WMPLib.dll
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.ResolveComReference.cache
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Form1.resources
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Resources.resources
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.GenerateResource.cache
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.CoreCompileInputs.cache
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.exe
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.xml
+I:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.pdb
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe.config
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.exe
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.pdb
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Windows Omega.xml
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projects\Windows Omega\Windows Omega\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.ResolveComReference.cache
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Form1.resources
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows_Omega.Resources.resources
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.exe
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.xml
+D:\Visual Studio Projects\Windows Omega\Windows Omega\obj\Debug\Windows Omega.pdb
