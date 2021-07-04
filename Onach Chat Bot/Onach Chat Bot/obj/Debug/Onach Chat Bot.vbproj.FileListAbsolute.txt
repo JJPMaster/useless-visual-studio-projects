@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\bin\Debug\Onach Chat Bot.exe.config
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\bin\Debug\Onach Chat Bot.exe
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\bin\Debug\Onach Chat Bot.pdb
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\bin\Debug\Onach Chat Bot.xml
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach_Chat_Bot.Form1.resources
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach_Chat_Bot.Resources.resources
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.exe
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.xml
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.pdb
+C:\Users\Tekga\source\repos\Onach Chat Bot\Onach Chat Bot\obj\Debug\Onach Chat Bot.vbprojResolveAssemblyReference.cache

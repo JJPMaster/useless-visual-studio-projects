@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Onach Document Viewer", "Onach Document Viewer\Onach Document Viewer.vbproj", "{67DB7FCC-EA0C-4211-AFD0-158554B33A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DB7FCC-EA0C-4211-AFD0-158554B33A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DB7FCC-EA0C-4211-AFD0-158554B33A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DB7FCC-EA0C-4211-AFD0-158554B33A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DB7FCC-EA0C-4211-AFD0-158554B33A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5356A1-DD9C-4639-AD16-C52F88599220}
+	EndGlobalSection
+EndGlobal

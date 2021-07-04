@@ -1,0 +1,12 @@
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\bin\Debug\Onacalculator.exe.config
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\bin\Debug\Onacalculator.exe
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\bin\Debug\Onacalculator.pdb
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\bin\Debug\Onacalculator.xml
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.vbprojResolveAssemblyReference.cache
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.Form1.resources
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.Resources.resources
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.vbproj.GenerateResource.Cache
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.vbproj.CoreCompileInputs.cache
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.exe
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.xml
+c:\users\tekga\source\repos\Onacalculator\Onacalculator\obj\Debug\Onacalculator.pdb

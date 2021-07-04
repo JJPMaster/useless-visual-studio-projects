@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\bin\Debug\NovaNet Browser!.exe.config
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\bin\Debug\NovaNet Browser!.exe
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\bin\Debug\NovaNet Browser!.pdb
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\bin\Debug\NovaNet Browser!.xml
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet_Browser_.Form1.resources
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet_Browser_.Resources.resources
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.exe
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.xml
+C:\Users\Tekga\source\repos\NovaNet Browser!\NovaNet Browser!\obj\Debug\NovaNet Browser!.pdb
