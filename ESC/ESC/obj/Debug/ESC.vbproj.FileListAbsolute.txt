@@ -1,0 +1,11 @@
+c:\users\tekga\source\repos\ESC\ESC\bin\Debug\ESC.exe.config
+c:\users\tekga\source\repos\ESC\ESC\bin\Debug\ESC.exe
+c:\users\tekga\source\repos\ESC\ESC\bin\Debug\ESC.pdb
+c:\users\tekga\source\repos\ESC\ESC\bin\Debug\ESC.xml
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.Form1.resources
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.Resources.resources
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.vbproj.GenerateResource.Cache
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.vbproj.CoreCompileInputs.cache
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.exe
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.xml
+c:\users\tekga\source\repos\ESC\ESC\obj\Debug\ESC.pdb

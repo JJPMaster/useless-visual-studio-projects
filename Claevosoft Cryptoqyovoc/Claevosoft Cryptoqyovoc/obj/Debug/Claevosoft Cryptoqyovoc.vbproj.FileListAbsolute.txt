@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\bin\Debug\Claevosoft Cryptoqyovoc.exe.config
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\bin\Debug\Claevosoft Cryptoqyovoc.exe
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\bin\Debug\Claevosoft Cryptoqyovoc.pdb
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\bin\Debug\Claevosoft Cryptoqyovoc.xml
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft_Cryptoqyovoc.Form1.resources
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft_Cryptoqyovoc.Resources.resources
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.exe
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.xml
+C:\Users\Tekga\source\repos\Claevosoft Cryptoqyovoc\Claevosoft Cryptoqyovoc\obj\Debug\Claevosoft Cryptoqyovoc.pdb

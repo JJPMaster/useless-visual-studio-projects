@@ -1,0 +1,12 @@
+C:\Users\Tekga\source\repos\Language Land\Language Land\bin\Debug\Language Land.exe.config
+C:\Users\Tekga\source\repos\Language Land\Language Land\bin\Debug\Language Land.exe
+C:\Users\Tekga\source\repos\Language Land\Language Land\bin\Debug\Language Land.pdb
+C:\Users\Tekga\source\repos\Language Land\Language Land\bin\Debug\Language Land.xml
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.vbprojResolveAssemblyReference.cache
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language_Land.Form1.resources
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language_Land.Resources.resources
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.vbproj.GenerateResource.Cache
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.vbproj.CoreCompileInputs.cache
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.exe
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.xml
+C:\Users\Tekga\source\repos\Language Land\Language Land\obj\Debug\Language Land.pdb
